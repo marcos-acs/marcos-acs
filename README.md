@@ -1,4 +1,4 @@
-### Olá! Eu sou o Maros Andrey👋
+### Olá! Eu sou o Marcos Andrey👋
 
 - 🔭 Hoje trabalho com front-end
 - 🌱 Estudando: HTML/CSS para melhorar os meus projetos
