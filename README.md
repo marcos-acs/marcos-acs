@@ -2,7 +2,7 @@
 
 - 🔭 Hoje trabalho com front-end
 - 🌱 Estudando: HTML/CSS para melhorar os meus projetos
-- 😄 Pronouns: ele/dele
+- 🔐 Quero aprender: JS e React
 <br>
 
 <div align="center">
