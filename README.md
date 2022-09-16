@@ -7,8 +7,8 @@
 
 <div align="center">
   <a href="https://github.com/marcos-acs">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=marcos-acs&show_icons=true&theme=blue-green&include_all_commits=true&count_private=true"/>
-  <img height="140em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=marcos-acs&layout=compact&langs_count=7&theme=blue-green"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=marcos-acs&show_icons=true&theme=red-green&include_all_commits=true&count_private=true"/>
+  <img height="140em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=marcos-acs&layout=compact&langs_count=7&theme=red-green"/>
 </div>
 <div style="display: inline_block"><br>
   <img align="center" alt="Macs-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
