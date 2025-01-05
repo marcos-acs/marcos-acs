@@ -1,8 +1,7 @@
 ### Olá! Eu sou o Marcos Andrey👋
 
-- 🔭 Hoje trabalho com front-end
-- 🌱 Estudando: HTML/CSS para melhorar os meus projetos
-- 🔐 Quero aprender: JS e React
+- 🔭 Hoje faço faculdade de análise e desenvolvimento de sistemas
+- 🌱 Estudando: Algo novo e melhorando o que já aprendi
 <br>
 
 <div align="center">
